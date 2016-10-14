@@ -21,7 +21,7 @@ import org.zerock.service.BoardService;
 public class BoardController {
 
   private static final Logger logger = LoggerFactory.getLogger(BoardController.class);
-
+ 
   @Inject
   private BoardService service;
 
